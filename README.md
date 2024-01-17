@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AllanTAP
-- 👀 I’m interested in JS/React
-- 🌱 I’m currently learning Unit tests
+- 👀 I’m interested in ReactJS/NextJS
 - 📫 How to reach me mail: allan.depontes@gmail.com
 
 <!---
